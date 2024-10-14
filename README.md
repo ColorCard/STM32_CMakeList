@@ -1,4 +1,4 @@
-### 基于江科大STM32课程源码，在CLion中可以使用的编译配置
+### 基于江科大 STM32 课程源码，在 CLion 中可以使用的编译配置
 
 使用方法：
 - 复制 [CMakeLists.txt](CMakeLists.txt) 和 [arm-gcc-toolchain.cmake](arm-gcc-toolchain.cmake) 到你的 Keil 工程项目中
